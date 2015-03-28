@@ -2,7 +2,7 @@
 
 http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript?utm_source=javascriptweekly&utm_medium=email
 
-<h3>Main Functionality:<h3> 
+<h3>Main Functionality:</h3> 
 <ul>
 <li>1. Created PropertyFinderApp class </li>
 <li>2. Added SearchPage class that allows typing in a city in UK and search functionality</li>
